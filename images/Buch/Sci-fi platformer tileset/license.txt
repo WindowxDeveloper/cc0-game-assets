@@ -1,0 +1,10 @@
+CC0 Public Domain
+
+Title: Sci-Fi Platformer Tileset
+Link: https://opengameart.org/content/sci-fi-platformer-tileset
+Author: Michele Bucelli (Buch)
+
+This began after reading this thread [http://opengameart.org/forumtopic/feedback-on-16px-robots-and-tiles]... It's a 16x16 platformer tileset. Some parts (the robots and the levers) have a small animation. There's an alternate palette version included.
+
+Copyright/Attribution Notice: 
+NOT REQUIRED, though appreciated: credit me as Michele 'Buch' Bucelli and link back to my OGA profile page.
