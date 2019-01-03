@@ -1,0 +1,14 @@
+CC0 Public Domain
+
+Author: Thomas Bruno
+Profile: https://opengameart.org/users/tebruno99
+
+Description:
+
+Here I've updated a few missing tiles from Surt's Generic Platformer Tiles.  A great set & look!
+
+I've also added tiles for multi-layering in Tiled.  So things can easily "walk between" foreground and background.  Also, due to an engine limitation, I've modified the bridge to be straight across with the bridge walkway lined up with the top of the 32x32 tile.  Left the original bridge intact.  It takes away the realism and beauty of it but I don't have the time to add in tiles that curve.
+
+Qt Tiled TMX map also attached to show usage.
+
+Base Tiles: http://opengameart.org/content/generic-platformer-tiles
